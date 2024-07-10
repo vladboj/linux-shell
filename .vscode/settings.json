@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "dirent.h": "c",
+        "commands.h": "c",
+        "input.h": "c",
+        "wait.h": "c",
+        "stdio.h": "c",
+        "limits.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/vladboj/reposs/basic-shell/bin",
+            "binaryPath": "/home/vladboj/reposs/basic-shell/bin/final_executable",
+            "binaryArgs": []
+        }
+    ]
+}
